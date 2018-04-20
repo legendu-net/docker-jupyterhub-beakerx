@@ -1,4 +1,4 @@
-FROM dclong/jupyterhub
+FROM dclong/jupyterhub-py
 
 RUN conda install -y -c conda-forge \
         beakerx \
