@@ -15,6 +15,6 @@ docker run -d \
     -e DOCKER_USER=`id -un` \
     -e DOCKER_USER_ID=`id -u` \
     -e DOCKER_PASSWORD=`id -un` \
-    -v $HOME:/jupyter \
+    -v $HOME:/workdir \
     dclong/jupyterhub-beakerx
 ```
