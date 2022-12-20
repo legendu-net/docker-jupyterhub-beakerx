@@ -1,6 +1,14 @@
 # dclong/jupyterhub-beakerx [@DockerHub](https://hub.docker.com/r/dclong/jupyterhub-beakerx/) | [@GitHub](https://github.com/dclong/docker-jupyterhub-beakerx)
 
 JupyterHub with BeakerX. 
+<span style="color:red">
+This Docker image is no longer maintained.
+</span>
+Please refer to 
+[Recommended Docker Images](http://www.legendu.net/en/blog/my-docker-images/#recommended-docker-images) 
+for alternatives.
+
+## [Recommended Docker Images](http://www.legendu.net/en/blog/my-docker-images/#recommended-docker-images) 
 
 ## Prerequisite
 You need to [install Docker](http://www.legendu.net/en/blog/docker-installation/) before you use this Docker image.
